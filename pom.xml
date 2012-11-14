@@ -4,7 +4,7 @@
 
     <groupId>com.github.shyiko</groupId>
     <artifactId>checkstyle-nonstandard</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1-SNAPSHOT</version>
 
     <name>checkstyle-nonstandard</name>
     <description>Additional Checkstyle checks</description>
