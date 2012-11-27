@@ -28,7 +28,7 @@
         <dependency>
             <groupId>com.github.shyiko</groupId>
             <artifactId>checkstyle-nonstandard</artifactId>
-            <version>0.1.0-SNAPSHOT</version>
+            <version>0.1.0</version>
         </dependency>
     </dependencies>
 </plugin>
